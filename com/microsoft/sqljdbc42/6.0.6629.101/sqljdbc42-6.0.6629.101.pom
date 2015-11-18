@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft</groupId>
-  <artifactId>sqljdbc</artifactId>
-  <version>4.0</version>
-  <description>针对 JDK1.6 JDBC 4.0</description>
+  <artifactId>sqljdbc42</artifactId>
+  <version>6.0.6629.101</version>
+  <description>针对 JDK 1.8 JDBC 4.2</description>
 </project>
